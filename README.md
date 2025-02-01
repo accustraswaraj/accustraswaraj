@@ -25,10 +25,10 @@ I'm a self-taught passionate Fullstack developer/Indiehacker from India 🇮🇳
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=accustraswaraj&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=accustraswaraj&repo=honoflare&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=accustraswaraj&repo=accustraswaraj.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=accustraswaraj&repo=honoflare&theme=buefy" />
 </a>
 
 <br />
