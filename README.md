@@ -1,5 +1,5 @@
 
-I'm a self-taught passionate Fullstack developer/Indiehacker from India 🇮🇳
+I'm a self-taught, passionate Fullstack developer/Indiehacker from India 🇮🇳
 
 **About me**
 
